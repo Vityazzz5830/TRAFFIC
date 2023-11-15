@@ -1,0 +1,305 @@
+@media screen and (max-width: 1800px) and (min-width: 1200px){
+  
+
+/*-------------------------------ШАПКА-------------------------------*/
+  .header_btn {
+    white-space: nowrap;
+  }
+
+  .header_btn-container {
+    margin-left: 50px;
+  }
+
+  .header_burger {
+    margin-left: 15px;
+  }
+
+  .header_menu-nav-list {
+    column-gap: 36px;
+  }
+
+  header {
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 96.7vw;
+  }
+
+  .header_menu-nav-list-item {
+    white-space: nowrap;
+  }
+
+  .header_btn-container {
+    margin-left: 30px;
+  }
+
+  .header-content-centrepart {
+    margin-left: 29px;
+  }
+
+  .header-content {
+    justify-content: ;
+  }
+
+
+/*-------------------------------ПЕРВАЯ СЕКЦИЯ-------------------------------*/
+
+  .firstsec_background {
+    opacity: 0.5;
+  }
+
+  .firstsec-content {
+    position: relative;
+  }
+
+  .firstsec{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 96.7vw;
+  }
+
+  .firstsec-content > img:nth-child(1) {
+    width: 95vw;
+    max-width: 1168px;
+  }
+
+
+/*-------------------------------СЕКЦИЯ РАБОТАЕМ-------------------------------*/
+   
+   .workssec{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 96.7vw;
+  }
+
+  .workssec-content-list {
+    justify-content: space-around;
+    column-gap: 0;
+  }
+
+  .workssec-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .workssec-content h2 {
+    font-size: 5.125rem;
+  }
+
+
+/*-------------------------------СЕКЦИЯ ЧТО МЫ ПРЕДЛАГАЕМ-------------------------------*/
+   
+   .offersec{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 96.7vw;
+  }
+
+  .offersec-content-list-item:nth-child(3) > img:nth-child(4) {
+    width: 95%;
+  }
+
+/*-------------------------------СЕКЦИЯ ЗАЧЕМ ПРОДВИГАТЬСЯ-------------------------------*/
+
+   .whatsec{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 96.7vw;
+  }
+
+  .whatsec-content-uppart-list {
+    width: 77vw;
+  }
+
+  .whatsec-content-uppart-item p {
+    font-size: 1rem;
+  }
+
+  .whatsec-content-uppart-item h3 {
+    font-size: 1.5rem;
+  }
+
+  .whatsec-content-uppart-list > div:nth-child(4) {
+    padding-right: 25px;
+  }
+
+  .whatsec-content-uppart-item h3 {
+    font-size: 1.25rem;
+  }
+
+  .whatsec-content-uppart-item:nth-child(4) > p:nth-child(2) {
+    margin-top: 91px;
+  }
+
+  .whatsec-content-downpart-list > div:nth-child(4) {
+    padding-right: 25px;
+  }
+
+  .whatsec-content-downpart-list > div:nth-child(4) > p:nth-child(2) {
+    margin-top: 58px;
+  }
+
+/*-------------------------------СЕКЦИЯ КАК МЫ ДОБИВАЕМСЯ РЕЗУЛЬТАТОВ-------------------------------*/
+
+   .resultsec{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 96.7vw;
+  }
+
+  .result-content img{
+    width: 95vw;
+  }
+
+  .result-content-list-item h3 {
+    font-size: 1.4rem;
+  }
+
+  .result-content-list-item p {
+    font-size: 1.25rem;
+  }
+
+  .result-content-list {
+    max-width: 100vw;
+    grid-template-columns: 1fr 1.1fr 1fr;
+  }
+
+  .result-content-list {
+    margin-left: 10px;
+  }
+
+  .result-content-list-item:nth-child(3) {
+    max-width: 350px;
+  }
+
+  .result-content-list-item:nth-child(2) {
+    max-width: 350px;
+  }
+
+  .result-content-list-item:nth-child(1) {
+    max-width: 350px;
+  }
+
+/*-------------------------------СЕКЦИЯ КАК МЫ ДОБИВАЕМСЯ РЕЗУЛЬТАТОВ-------------------------------*/
+
+  .aboutussec{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 96.7vw;
+  }
+
+  .aboutus-content-title-rightpart b {
+    font-size: 2rem;
+  }
+
+  .aboutus-content-title-rightpart h3 {
+    font-size: 2rem;
+  }
+
+  .aboutus-content-title-rightpart p {
+    font-size: 1rem;
+  }
+
+  .aboutus-content-title {
+    margin-left: 0;
+  }
+
+  .aboutus-content-title {
+    width: 90vw;
+  }
+
+/*-------------------------------СЕКЦИЯ НАША КОМАНДА-------------------------------*/
+
+   .teamsec{
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .teamsec-slider-item img {
+    width: 200px;
+  }
+
+  .slick-slider {
+    width: 90vw;
+  }
+
+  .teamsec-slider-item h3 {
+    text-align: center;
+  }
+
+  .teamsec-content {
+    max-width: 96vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+
+/*-------------------------------СЕКЦИЯ НАШИ КЕЙСЫ-------------------------------*/
+
+  .casessec{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 96.7vw;
+  }
+
+  .casessec-content-list-item {
+    padding-left: 20px;
+    padding-right: 12px;
+    max-width: 385px;
+  }
+
+  .casessec-content {
+    width: 96vw;
+  }
+
+  .casessec-content-list-item {
+    max-width: 28vw;
+  }
+
+/*-------------------------------СЕКЦИЯ ОСТАВИТЬ ЗАЯВКУ-------------------------------*/
+
+  .ordersec{
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .form_container {
+    margin-left: 42px;
+  }
+
+  .ordersec-content {
+    max-width: 96vw;
+  }
+
+  .order_form {
+    column-gap: 20px;
+  }
+
+  .form_item_uppart p {
+    font-size: 1.25rem;
+  }
+
+/*-------------------------------ФУТЕР-------------------------------*/
+
+   footer{
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 97.4vw;
+  }
+
+  .footer-content {
+    margin-left: 0px;
+    margin-right: 0px;
+    justify-content: space-between;
+  }
+
+  .footer-content-contacts {
+    margin-left: 45px;
+  }
+
+  .footer-content-company {
+    margin-left: 40px;
+  }
+
+}
